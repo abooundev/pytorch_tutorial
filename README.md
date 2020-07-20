@@ -1,5 +1,5 @@
-# pytorch
-pytorch tutorial
+# pytorch tutorial
+[https://pytorch.org/tutorials](https://pytorch.org/tutorials/)
 
 
 ### Learning PyTorch

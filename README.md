@@ -12,11 +12,11 @@
  
 ### Text
 
-  * Sequence-to-Sequence Modeling with nn.Transformer and TorchText - Day 3 (7/23, 수)
-  * NLP From Scratch: Classifying Names with a Character-Level RNN - Day 3 (7/23, 수)
-  * NLP From Scratch: Generating Names with a Character-Level RNN - Day 4 (7/24, 목)
-  * NLP From Scratch: Translation with a Sequence to Sequence Network and Attention - Day 4 (7/24, 목)
-  * Text Classification with TorchText - Day 5 (7/25, 금)
-  * Language Translation with TorchText - Day 5 (7/26, 금)
+  * Sequence-to-Sequence Modeling with nn.Transformer and TorchText - Day 3 (7/23, 목)
+  * NLP From Scratch: Classifying Names with a Character-Level RNN - Day 3 (7/23, 목)
+  * NLP From Scratch: Generating Names with a Character-Level RNN - Day 4 (7/24, 금)
+  * NLP From Scratch: Translation with a Sequence to Sequence Network and Attention - Day 4 (7/24, 금)
+  * Text Classification with TorchText - Day 5 (7/25, 토)
+  * Language Translation with TorchText - Day 5 (7/25, 토)
 
  

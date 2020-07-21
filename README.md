@@ -5,10 +5,10 @@
 ### Learning PyTorch
 
   * [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html#) - Day1 (7/21, 화)
-    * [notebook] What is PyTorch?
-    * [notebook] Autograd: Automatic Differentiation
-    * [notebook] Neural Networks
-    * [notebook] Training a clssifier
+    * [jupyter notebook] What is PyTorch?
+    * [jupyter notebook] Autograd: Automatic Differentiation
+    * [jupyter notebook] Neural Networks
+    * [jupyter notebook] Training a Classifier
     
   * [Learning PyTorch with Examples](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) - Day1 (7/21, 화)
   * [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html) - Day2 (7/22, 수)

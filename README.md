@@ -15,31 +15,31 @@
        * [ jupyter notebook ] 1_4_cifar10_tutorial.ipynb
     
   * ### [Learning PyTorch with Examples](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) - Day1 (7/21, 화)
-    * Tensors (1) Warm-up:numpy 
+    * <b> Tensors (1) Warm-up:numpy </b>
        * [ jupyter notebook ] 2_1_1_two_layer_net_numpy.ipynb
-    * Tensors (2) PyTorch:Tensors
+    * <b> Tensors (2) PyTorch:Tensors </b>
        * [ jupyter notebook ] 2_1_2_two_layer_net_tensor.ipynb
-    * Autograd (1) PyTorch: Tensors and autograd
+    * <b> Autograd (1) PyTorch: Tensors and autograd </b>
        * [ jupyter notebook ] 2_2_1_two_layer_net_autograd.ipynb
-    * Autograd (2) PyTorch: Defining new autograd and functions
+    * <b> Autograd (2) PyTorch: Defining new autograd and functions </b>
        * [ jupyter notebook ] 2_2_2_two_layer_net_custom_function.ipynb
-    * Autograd (3) PyTorch: TensorFlow: Static graphs
+    * <b> Autograd (3) PyTorch: TensorFlow: Static graphs </b>
        * [ jupyter notebook ] 2_2_3_tf_two_layer_net.ipynb
-    * nn module (1) PyTorch: nn   
+    * <b> nn module (1) PyTorch: nn </b>    
        * [ jupyter notebook ] 2_3_1_two_layer_net_nn.ipynb
-    * nn module (2) PyTorch: optim 
+    * <b> nn module (2) PyTorch: optim </b> 
        * [ jupyter notebook ] 2_3_2_two_layer_net_optim.ipynb  
-    * nn module (3) PyTorch: custom nn moduels
+    * <b> nn module (3) PyTorch: custom nn moduels </b>
        * [ jupyter notebook ] 2_3_3_two_layer_net_module.ipynb
-    * nn module (4) PyTorch: control flow + weight sharing   
-       * [ jupyter notebook ] 2_3_4_dynamic_net.ipynb    
+    * <b> nn module (4) PyTorch: control flow + weight sharing  </b> 
+       * [ jupyter notebook ] 2_3_4_dynamic_net.ipynb     
   * ### [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html) - Day2 (7/22, 수)
       * [ jupyter notebook ] 3_nn_tutorial.ipynb
   * ### [Visualizing Models, Data, and Training with TensorBoard](https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html) - Day2 (7/22, 수)
       * [ jupyter notebook ] 
  
  
-### Text
+## Text
 
   * ### Sequence-to-Sequence Modeling with nn.Transformer and TorchText - Day 3 (7/23, 목)
       * [ jupyter notebook ] nlp1_transformer_tutorial.ipynb

@@ -2,16 +2,16 @@
 [https://pytorch.org/tutorials](https://pytorch.org/tutorials/)
 
 
-### Learning PyTorch
+## Learning PyTorch
 
-  * [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html#) - Day1 (7/21, 화)
-    * What is PyTorch?
+  * ### [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html#) - Day1 (7/21, 화)
+    * ### What is PyTorch?
       * [ jupyter notebook ] 1_1_tensor_tutorial.ipynb
-    * Autograd: Automatic Differentiation
+    * ### Autograd: Automatic Differentiation
       * [ jupyter notebook ] 1_2_autograd_tutorial.ipynb
-    * Neural Networks
+    * ### Neural Networks
        * [ jupyter notebook ] 1_3_neural_networks_tutorial.ipynb
-    * Training a Classifier
+    * ### Training a Classifier
        * [ jupyter notebook ] 1_4_cifar10_tutorial.ipynb
     
   * [Learning PyTorch with Examples](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html) - Day1 (7/21, 화)

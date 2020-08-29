@@ -21,16 +21,24 @@
     * [ jupyter notebook ] nn module (3) PyTorch: custom nn moduels
     * [ jupyter notebook ] nn module (4) PyTorch: control flow + weight sharing       
   * [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html) - Day2 (7/22, 수)
+      * [ jupyter notebook ]
   * [Visualizing Models, Data, and Training with TensorBoard](https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html) - Day2 (7/22, 수)
+      * [ jupyter notebook ]
  
  
 ### Text
 
   * Sequence-to-Sequence Modeling with nn.Transformer and TorchText - Day 3 (7/23, 목)
+      * [ jupyter notebook ]
   * NLP From Scratch: Classifying Names with a Character-Level RNN - Day 3 (7/23, 목)
+      * [ jupyter notebook ]
   * NLP From Scratch: Generating Names with a Character-Level RNN - Day 4 (7/24, 금)
+      * [ jupyter notebook ]
   * NLP From Scratch: Translation with a Sequence to Sequence Network and Attention - Day 4 (7/24, 금)
+      * [ jupyter notebook ]
   * Text Classification with TorchText - Day 5 (7/25, 토)
+      * [ jupyter notebook ]
   * Language Translation with TorchText - Day 5 (7/25, 토)
+      * [ jupyter notebook ]
 
  
